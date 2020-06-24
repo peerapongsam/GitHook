@@ -1,6 +1,6 @@
 #!/bin/sh
 
-./gradlew :app:assembleDevDebug
+./gradlew :app:assembleDebug
 
 status=$?
 
